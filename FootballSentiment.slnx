@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/FootballSentiment.Api/FootballSentiment.Api.csproj" />
+    <Project Path="src/FootballSentiment.Application/FootballSentiment.Application.csproj" />
+    <Project Path="src/FootballSentiment.Domain/FootballSentiment.Domain.csproj" />
+    <Project Path="src/FootballSentiment.Infrastructure/FootballSentiment.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/FootballSentiment.UnitTests/FootballSentiment.UnitTests.csproj" />
+  </Folder>
+</Solution>
